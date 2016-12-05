@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!--[if IE 8]><html class="ie8"><![endif]-->
 <!--[if IE 9]><html class="ie9"><![endif]-->
-<!--[if gt IE 8]><!--> 
+<!--[if gt IE 8]><!-->
 <html lang="en-US"> <!--<![endif]-->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
@@ -68,10 +68,10 @@
 		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 		})(window,document,'script','../../www.google-analytics.com/analytics.js','ga');
-		
+
 		ga('create', 'UA-57179343-1', 'auto');
 		ga('send', 'pageview');
-		
+
 	</script>
 <!--[if IE 7]>
 <link rel="stylesheet" href="http://demo.mekshq.com/voice/otun-content/plugins/wp-review/assets/css/wp-review-ie7.css">
@@ -95,7 +95,7 @@
 							<li id="menu-item-373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-373"><a href="indexa814.html?page_id=294">Contact</a></li>
 							<li id="menu-item-657" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-657"><a href="index96fc.html?forum=forum">Forum</a></li>
 							<li id="menu-item-745" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-745"><a href="index623d.html?product_cat=clothing">Shop</a></li>
-						</ul>			
+						</ul>
 					</div>-->
 					<div class="vce-wrap-right">
 						<div class="menu-social-menu-container">
@@ -106,11 +106,11 @@
 								<!--<li id="menu-item-65" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65"><a href="https://twitter.com/mekshq"><span class="vce-social-name">Twitter</span></a></li>
 								<li id="menu-item-217" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-217"><a href="https://vk.com/"><span class="vce-social-name">VK</span></a></li>-->
 							</ul>
-						</div>			
+						</div>
 					</div>
 				</div>
 			</div>
-			<div class="container header-1-wrapper header-main-area">	
+			<div class="container header-1-wrapper header-main-area">
 				<div class="vce-res-nav">
 					<a class="vce-responsive-nav" href="#sidr-main"><i class="fa fa-bars"></i></a>
 				</div>
@@ -118,7 +118,7 @@
 					<h1 class="site-title">
 						<a href="index.php" title="otun-remmy-writes" class="has-logo"><label>otun&#8211;remmy&#8211;writes</label></a>
 					</h1>
-					<span class="site-description">otunremmy blog</span>	
+					<span class="site-description">otunremmy blog</span>
 				</div>
 			</div>
 			<div class="header-bottom-wrapper">
@@ -133,37 +133,37 @@
 									</li>
 									<li id="menu-item-428" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-428"><a href="#">Amebo</a>
 										<ul class="sub-menu">
-											<li id="menu-item-430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-430"><a href="index5fa3.html?page_id=422&amp;ha=2">Education</a>		
+											<li id="menu-item-430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-430"><a href="index5fa3.html?page_id=422&amp;ha=2">Education</a>
 											</li>
-											<li id="menu-item-430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-430"><a href="index5fa3.html?page_id=422&amp;ha=2">Latest Discoveries</a>		
+											<li id="menu-item-430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-430"><a href="index5fa3.html?page_id=422&amp;ha=2">Latest Discoveries</a>
 											</li>
-											<li id="menu-item-430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-430"><a href="index5fa3.html?page_id=422&amp;ha=2">Nigeria</a>		
+											<li id="menu-item-430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-430"><a href="index5fa3.html?page_id=422&amp;ha=2">Nigeria</a>
 											</li>
-											<li id="menu-item-429" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-429"><a href="indexfff4.html?page_id=420">Religion</a>		
+											<li id="menu-item-429" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-429"><a href="indexfff4.html?page_id=420">Religion</a>
 											</li>
-											<li id="menu-item-430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-430"><a href="index5fa3.html?page_id=422&amp;ha=2">Science and Technology</a>		
+											<li id="menu-item-430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-430"><a href="index5fa3.html?page_id=422&amp;ha=2">Science and Technology</a>
 											</li>
 										</ul>
-									</li>	
-									<li id="menu-item-743" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-743"><a href="index96fc.html?forum=forum">Otun-remmy Forum</a>	
 									</li>
-									<!--<li id="menu-item-510" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-510"><a href="indexd581.html?page_id=434">Theme Options</a>	
+									<li id="menu-item-743" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-743"><a href="index96fc.html?forum=forum">Otun-remmy Forum</a>
 									</li>
-									<li id="menu-item-355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-355"><a href="index1a51.html?page_id=328">Typography</a>	
+									<!--<li id="menu-item-510" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-510"><a href="indexd581.html?page_id=434">Theme Options</a>
 									</li>
-									<li id="menu-item-353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-353"><a href="index11c1.html?page_id=337">Shortcodes</a>	
+									<li id="menu-item-355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-355"><a href="index1a51.html?page_id=328">Typography</a>
 									</li>
-									<li id="menu-item-354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-354"><a href="indexee3d.html?page_id=335">Custom Widgets</a>	
+									<li id="menu-item-353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-353"><a href="index11c1.html?page_id=337">Shortcodes</a>
 									</li>
-									<li id="menu-item-746" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-746"><a href="index623d.html?product_cat=clothing">WooCommerce</a>	
+									<li id="menu-item-354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-354"><a href="indexee3d.html?page_id=335">Custom Widgets</a>
+									</li>
+									<li id="menu-item-746" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-746"><a href="index623d.html?product_cat=clothing">WooCommerce</a>
 									</li>-->
 								</ul>
 							</li>
 							<li id="menu-item-234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-233"><a href="index0c2d.html?page_id=231">Health</a>
 								<ul class="sub-menu">
-									<li id="menu-item-234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a href="index0c2d.html?page_id=231">cat 1</a></li>	
+									<li id="menu-item-234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a href="index0c2d.html?page_id=231">cat 1</a></li>
 									<li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237"><a href="index79e3.html?page_id=235">cat 2</a></li>
-									<li id="menu-item-240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-240"><a href="index9920.html?page_id=238">cat 3</a></li>	
+									<li id="menu-item-240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-240"><a href="index9920.html?page_id=238">cat 3</a></li>
 									<li id="menu-item-243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-243"><a href="index4180.html?page_id=241">cat 4</a></li>
 								</ul>
 							</li>
@@ -266,24 +266,27 @@
 						</ul>
 					</nav>
 				</div>
-			</div>	
+			</div>
 		</header>
 		<div id="main-wrapper">
-			<div class="vce-featured">
+			<!--<div class="vce-featured">
 			    <a href="#" title="otun-remmy-writes featured banner">
-    	            <img width="1920" height="500" src="otun-content/uploads/2014/11/banner.jpg" class="attachment-vce-fa-full size-vce-fa-full wp-post-image" alt="voice_18" />           
+    	            <img width="1920" height="500" src="otun-content/uploads/2014/11/banner.jpg" class="attachment-vce-fa-full size-vce-fa-full wp-post-image" alt="voice_18" />
     	        </a>
+			</div>-->
+			<div id="vce-featured-grid" class="vce-featured-grid">
+				<?php include ('otun-admin/php/dbfunctions/post.slider.php'); ?>
 			</div>
 			<div id="content" class="container site-content">
 				<div id="primary" class="vce-main-content">
 					<div id="main-box-11" class="main-box vce-border-top  ">
 						<h3 class="main-box-title ">Latest Articles</h3>
 						<div class="main-box-inside ">
-							<div class="vce-loop-wrap" >						
+							<div class="vce-loop-wrap" >
 								<article class="vce-post vce-lay-b post-203 post type-post status-publish format-standard has-post-thumbnail hentry category-environment category-technology tag-earth tag-ecology tag-solar-energy">
-						 		 	<div class="meta-image">			
+						 		 	<div class="meta-image">
 										<a href="indexc39e.html?p=203" title="Solar Energy for Mother Earth and Everyday Smiles">
-											<img width="375" height="195" src="otun-content/uploads/2014/11/unsplash_52bf2bb8d2dd0_1-1-375x195.jpg" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="unsplash_52bf2bb8d2dd0_1 (1)" />		
+											<img width="375" height="195" src="otun-content/uploads/2014/11/unsplash_52bf2bb8d2dd0_1-1-375x195.jpg" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="unsplash_52bf2bb8d2dd0_1 (1)" />
 										</a>
 									</div>
 									<header class="entry-header">
@@ -300,13 +303,13 @@
 											<div class="meta-item comments">
 												<a href="indexc39e.html?p=203#comments">1 Comment</a>
 											</div>
-										</div>	
+										</div>
 									</header>
-								</article>			
+								</article>
 								<article class="vce-post vce-lay-b post-153 post type-post status-publish format-standard has-post-thumbnail hentry category-lifestyle tag-company tag-lifestyle-2 tag-magazine">
-		 								<div class="meta-image">			
+		 								<div class="meta-image">
 										<a href="indexd7d8.html?p=153" title="What Is the Definition of an Entrepreneur Lifestyle?">
-											<img width="375" height="195" src="otun-content/uploads/2014/11/voice_21-375x195.jpg" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="voice_21" />							
+											<img width="375" height="195" src="otun-content/uploads/2014/11/voice_21-375x195.jpg" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="voice_21" />
 										</a>
 									</div>
 									<header class="entry-header">
@@ -317,15 +320,15 @@
 										<div class="entry-meta">
 											<div class="meta-item date"><span class="updated">3 days ago</span></div>
 											<div class="meta-item comments"><a href="indexd7d8.html?p=153#comments">1 Comment</a></div>
-										</div>	
+										</div>
 									</header>
-								</article>			
-							</div>						
+								</article>
+							</div>
 							<nav id="vce-pagination" class="vce-load-more">
-								<a href="index6146.html?paged=2" >Read more</a>	
+								<a href="index6146.html?paged=2" >Read more</a>
 							</nav>
 						</div>
-					</div>	
+					</div>
 					<div class="main-box-inside ">
 						<p><img style="margin: 0 auto;  display: block;"  width="728" height="90" src="otun-content/uploads/2015/04/blank_ad2.jpg">
 						</p>
@@ -337,7 +340,7 @@
 								<article class="vce-post vce-lay-c post-192 post type-post status-publish format-video has-post-thumbnail hentry category-fashion post_format-post-format-video">
 								 	<div class="meta-image">
 										<a href="index5a6a.html?p=192" title="Hipster Yoga at the End of the World">
-											<img width="375" height="195" src="otun-content/uploads/2014/11/voice_152-375x195.jpg" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="voice_15" />									
+											<img width="375" height="195" src="otun-content/uploads/2014/11/voice_152-375x195.jpg" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="voice_15" />
 											<span class="vce-format-icon"><i class="fa fa-play"></i></span>
 										</a>
 									</div>
@@ -348,17 +351,17 @@
 										</h2>
 										<div class="entry-meta">
 											<div class="meta-item date"><span class="updated">3 days ago</span></div>
-										</div>	
+										</div>
 									</header>
 									<div class="entry-content">
 										<p>This is a video post format example. It supports all WordPress common embed features for videos.</p>
 									</div>
-								</article>				
-								<div class="vce-loop-wrap" >						
+								</article>
+								<div class="vce-loop-wrap" >
 									<article class="vce-post vce-lay-d post-144 post type-post status-publish format-standard has-post-thumbnail hentry category-fashion">
- 		 								<div class="meta-image">			
+ 		 								<div class="meta-image">
 											<a href="index421d.html?p=144" title="Staying in Fashion With the Perfect Accessory">
-												<img width="145" height="100" src="otun-content/uploads/2014/11/voice_37-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="voice_37" srcset="http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-145x100.jpg 145w, http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-380x260.jpg 380w" sizes="(max-width: 145px) 100vw, 145px" />				
+												<img width="145" height="100" src="otun-content/uploads/2014/11/voice_37-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="voice_37" srcset="http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-145x100.jpg 145w, http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-380x260.jpg 380w" sizes="(max-width: 145px) 100vw, 145px" />
 											</a>
 										</div>
 										<header class="entry-header">
@@ -369,9 +372,9 @@
 										</header>
 									</article>
 									<article class="vce-post vce-lay-d post-144 post type-post status-publish format-standard has-post-thumbnail hentry category-fashion">
- 		 								<div class="meta-image">			
+ 		 								<div class="meta-image">
 											<a href="index421d.html?p=144" title="Staying in Fashion With the Perfect Accessory">
-												<img width="145" height="100" src="otun-content/uploads/2014/11/voice_37-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="voice_37" srcset="http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-145x100.jpg 145w, http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-380x260.jpg 380w" sizes="(max-width: 145px) 100vw, 145px" />				
+												<img width="145" height="100" src="otun-content/uploads/2014/11/voice_37-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="voice_37" srcset="http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-145x100.jpg 145w, http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-380x260.jpg 380w" sizes="(max-width: 145px) 100vw, 145px" />
 											</a>
 										</div>
 										<header class="entry-header">
@@ -380,7 +383,7 @@
 												<a href="index421d.html?p=144" title="Staying in Fashion With the Perfect Accessory">Staying in Fashion With the Perfect Accessory</a>
 											</h2>
 										</header>
-									</article>						
+									</article>
 								</div>
 							</div>
 						</div>
@@ -390,7 +393,7 @@
 								<article class="vce-post vce-lay-c post-192 post type-post status-publish format-video has-post-thumbnail hentry category-fashion post_format-post-format-video">
 								 	<div class="meta-image">
 										<a href="index5a6a.html?p=192" title="Hipster Yoga at the End of the World">
-											<img width="375" height="195" src="otun-content/uploads/2014/11/voice_152-375x195.jpg" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="voice_15" />									
+											<img width="375" height="195" src="otun-content/uploads/2014/11/voice_152-375x195.jpg" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="voice_15" />
 											<span class="vce-format-icon"><i class="fa fa-play"></i></span>
 										</a>
 									</div>
@@ -401,17 +404,17 @@
 										</h2>
 										<div class="entry-meta">
 											<div class="meta-item date"><span class="updated">3 days ago</span></div>
-										</div>	
+										</div>
 									</header>
 									<div class="entry-content">
 										<p>This is a video post format example. It supports all WordPress common embed features for videos.</p>
 									</div>
-								</article>				
-								<div class="vce-loop-wrap" >						
+								</article>
+								<div class="vce-loop-wrap" >
 									<article class="vce-post vce-lay-d post-144 post type-post status-publish format-standard has-post-thumbnail hentry category-fashion">
- 		 								<div class="meta-image">			
+ 		 								<div class="meta-image">
 											<a href="index421d.html?p=144" title="Staying in Fashion With the Perfect Accessory">
-												<img width="145" height="100" src="otun-content/uploads/2014/11/voice_37-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="voice_37" srcset="http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-145x100.jpg 145w, http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-380x260.jpg 380w" sizes="(max-width: 145px) 100vw, 145px" />				
+												<img width="145" height="100" src="otun-content/uploads/2014/11/voice_37-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="voice_37" srcset="http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-145x100.jpg 145w, http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-380x260.jpg 380w" sizes="(max-width: 145px) 100vw, 145px" />
 											</a>
 										</div>
 										<header class="entry-header">
@@ -422,9 +425,9 @@
 										</header>
 									</article>
 									<article class="vce-post vce-lay-d post-144 post type-post status-publish format-standard has-post-thumbnail hentry category-fashion">
- 		 								<div class="meta-image">			
+ 		 								<div class="meta-image">
 											<a href="index421d.html?p=144" title="Staying in Fashion With the Perfect Accessory">
-												<img width="145" height="100" src="otun-content/uploads/2014/11/voice_37-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="voice_37" srcset="http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-145x100.jpg 145w, http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-380x260.jpg 380w" sizes="(max-width: 145px) 100vw, 145px" />				
+												<img width="145" height="100" src="otun-content/uploads/2014/11/voice_37-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="voice_37" srcset="http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-145x100.jpg 145w, http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-380x260.jpg 380w" sizes="(max-width: 145px) 100vw, 145px" />
 											</a>
 										</div>
 										<header class="entry-header">
@@ -433,7 +436,7 @@
 												<a href="index421d.html?p=144" title="Staying in Fashion With the Perfect Accessory">Staying in Fashion With the Perfect Accessory</a>
 											</h2>
 										</header>
-									</article>						
+									</article>
 								</div>
 							</div>
 						</div>
@@ -443,7 +446,7 @@
 								<article class="vce-post vce-lay-c post-192 post type-post status-publish format-video has-post-thumbnail hentry category-fashion post_format-post-format-video">
 								 	<div class="meta-image">
 										<a href="index5a6a.html?p=192" title="Hipster Yoga at the End of the World">
-											<img width="375" height="195" src="otun-content/uploads/2014/11/voice_152-375x195.jpg" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="voice_15" />									
+											<img width="375" height="195" src="otun-content/uploads/2014/11/voice_152-375x195.jpg" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="voice_15" />
 											<span class="vce-format-icon"><i class="fa fa-play"></i></span>
 										</a>
 									</div>
@@ -454,17 +457,17 @@
 										</h2>
 										<div class="entry-meta">
 											<div class="meta-item date"><span class="updated">3 days ago</span></div>
-										</div>	
+										</div>
 									</header>
 									<div class="entry-content">
 										<p>This is a video post format example. It supports all WordPress common embed features for videos.</p>
 									</div>
-								</article>				
-								<div class="vce-loop-wrap" >						
+								</article>
+								<div class="vce-loop-wrap" >
 									<article class="vce-post vce-lay-d post-144 post type-post status-publish format-standard has-post-thumbnail hentry category-fashion">
- 		 								<div class="meta-image">			
+ 		 								<div class="meta-image">
 											<a href="index421d.html?p=144" title="Staying in Fashion With the Perfect Accessory">
-												<img width="145" height="100" src="otun-content/uploads/2014/11/voice_37-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="voice_37" srcset="http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-145x100.jpg 145w, http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-380x260.jpg 380w" sizes="(max-width: 145px) 100vw, 145px" />				
+												<img width="145" height="100" src="otun-content/uploads/2014/11/voice_37-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="voice_37" srcset="http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-145x100.jpg 145w, http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-380x260.jpg 380w" sizes="(max-width: 145px) 100vw, 145px" />
 											</a>
 										</div>
 										<header class="entry-header">
@@ -475,9 +478,9 @@
 										</header>
 									</article>
 									<article class="vce-post vce-lay-d post-144 post type-post status-publish format-standard has-post-thumbnail hentry category-fashion">
- 		 								<div class="meta-image">			
+ 		 								<div class="meta-image">
 											<a href="index421d.html?p=144" title="Staying in Fashion With the Perfect Accessory">
-												<img width="145" height="100" src="otun-content/uploads/2014/11/voice_37-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="voice_37" srcset="http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-145x100.jpg 145w, http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-380x260.jpg 380w" sizes="(max-width: 145px) 100vw, 145px" />				
+												<img width="145" height="100" src="otun-content/uploads/2014/11/voice_37-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="voice_37" srcset="http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-145x100.jpg 145w, http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-380x260.jpg 380w" sizes="(max-width: 145px) 100vw, 145px" />
 											</a>
 										</div>
 										<header class="entry-header">
@@ -486,7 +489,7 @@
 												<a href="index421d.html?p=144" title="Staying in Fashion With the Perfect Accessory">Staying in Fashion With the Perfect Accessory</a>
 											</h2>
 										</header>
-									</article>						
+									</article>
 								</div>
 							</div>
 						</div>
@@ -496,7 +499,7 @@
 								<article class="vce-post vce-lay-c post-192 post type-post status-publish format-video has-post-thumbnail hentry category-fashion post_format-post-format-video">
 								 	<div class="meta-image">
 										<a href="index5a6a.html?p=192" title="Hipster Yoga at the End of the World">
-											<img width="375" height="195" src="otun-content/uploads/2014/11/voice_152-375x195.jpg" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="voice_15" />									
+											<img width="375" height="195" src="otun-content/uploads/2014/11/voice_152-375x195.jpg" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="voice_15" />
 											<span class="vce-format-icon"><i class="fa fa-play"></i></span>
 										</a>
 									</div>
@@ -507,17 +510,17 @@
 										</h2>
 										<div class="entry-meta">
 											<div class="meta-item date"><span class="updated">3 days ago</span></div>
-										</div>	
+										</div>
 									</header>
 									<div class="entry-content">
 										<p>This is a video post format example. It supports all WordPress common embed features for videos.</p>
 									</div>
-								</article>				
-								<div class="vce-loop-wrap" >						
+								</article>
+								<div class="vce-loop-wrap" >
 									<article class="vce-post vce-lay-d post-144 post type-post status-publish format-standard has-post-thumbnail hentry category-fashion">
- 		 								<div class="meta-image">			
+ 		 								<div class="meta-image">
 											<a href="index421d.html?p=144" title="Staying in Fashion With the Perfect Accessory">
-												<img width="145" height="100" src="otun-content/uploads/2014/11/voice_37-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="voice_37" srcset="http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-145x100.jpg 145w, http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-380x260.jpg 380w" sizes="(max-width: 145px) 100vw, 145px" />				
+												<img width="145" height="100" src="otun-content/uploads/2014/11/voice_37-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="voice_37" srcset="http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-145x100.jpg 145w, http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-380x260.jpg 380w" sizes="(max-width: 145px) 100vw, 145px" />
 											</a>
 										</div>
 										<header class="entry-header">
@@ -528,9 +531,9 @@
 										</header>
 									</article>
 									<article class="vce-post vce-lay-d post-144 post type-post status-publish format-standard has-post-thumbnail hentry category-fashion">
- 		 								<div class="meta-image">			
+ 		 								<div class="meta-image">
 											<a href="index421d.html?p=144" title="Staying in Fashion With the Perfect Accessory">
-												<img width="145" height="100" src="otun-content/uploads/2014/11/voice_37-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="voice_37" srcset="http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-145x100.jpg 145w, http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-380x260.jpg 380w" sizes="(max-width: 145px) 100vw, 145px" />				
+												<img width="145" height="100" src="otun-content/uploads/2014/11/voice_37-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="voice_37" srcset="http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-145x100.jpg 145w, http://demo.mekshq.com/voice/otun-content/uploads/2014/11/voice_37-380x260.jpg 380w" sizes="(max-width: 145px) 100vw, 145px" />
 											</a>
 										</div>
 										<header class="entry-header">
@@ -539,12 +542,12 @@
 												<a href="index421d.html?p=144" title="Staying in Fashion With the Perfect Accessory">Staying in Fashion With the Perfect Accessory</a>
 											</h2>
 										</header>
-									</article>						
+									</article>
 								</div>
 							</div>
 						</div>
 						<nav id="vce-pagination" class="vce-load-more">
-							<a href="index6146.html?paged=2" >Read more</a>	
+							<a href="index6146.html?paged=2" >Read more</a>
 						</nav>
 					</div>
 				</div>
@@ -589,7 +592,7 @@
 					</div>
 					<div class="vce-sticky">
 						<div id="mks_ads_widget-3" class="widget mks_ads_widget">
-							<h4 class="widget-title">Place Ads Here</h4>			
+							<h4 class="widget-title">Place Ads Here</h4>
 							<ul class="mks_adswidget_ul small">
 	     			     		<li data-showind="0">
 	     			     			<a href="#" target="_blank" >
@@ -613,15 +616,15 @@
 	     			     		</li>
 	     			    	</ul>
 						</div>
-					</div>	
+					</div>
 				</aside>
 			</div>
 			<footer id="footer" class="site-footer">
-				<?php 
+				<?php
 					include ('footer.html');
 				?>
 			</footer>
-		</div>	
+		</div>
 	</div>
 	<a href="top" id="back-top"><i class="fa fa-arrow-up"></i></a>
 	<script type='text/javascript' src='otun-content/uploads/minit/cfa3f9c3a3b15876a4062bf71b6a9ece.js'></script>
